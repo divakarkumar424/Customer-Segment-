@@ -6,7 +6,7 @@ A response model can provide a significant boost to the efficiency of a marketin
 ## Overview:
 Software And Tools Requirements
 
-1. [Google Colab](https://colab.research.google.com/)
+1. [Colab Notebook](https://colab.research.google.com/)
 
 Technology and tools wise this project covers,
 
